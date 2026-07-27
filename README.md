@@ -236,15 +236,13 @@
 
 # 
 
-# \### Ayoub Nya
-
 # 
 
 # \- GitHub: https://github.com/kirujaxx
 
 # \- LinkedIn: https://www.linkedin.com/in/ayoub-nya
 
-# \- Frontend Mentor: https://www.frontendmentor.io/profile/YOUR\_USERNAME
+# \- Frontend Mentor: https://www.frontendmentor.io
 
 # 
 
