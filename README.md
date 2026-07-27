@@ -1,7 +1,5 @@
 # <h1 align="center">📖 Blog Preview Card</h1>
-
 # <p align="center">Solution to the <strong>Frontend Mentor - Blog Preview Card</strong> challenge.</p>
-
 # <p align="center"><a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS">
  &#x20; <img src="https://img.shields.io/badge/Frontend%20Mentor-Challenge-3F54A3?style=for-the-badge\&logo=frontendmentor\&logoColor=white" alt="Frontend Mentor"> </a>
 # &#x20; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\\\&logo=css3\\\&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/Flexbox-Responsive-yellow?style=for-the-badge" alt="Flexbox"></p>
