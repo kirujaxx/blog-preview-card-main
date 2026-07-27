@@ -91,35 +91,35 @@
 
 
 
-# .title{
+ .title{
 
-# &#x20; transition:color .2s ease;
+transition:color .2s ease;
 
-# }
+ }
 
 # 📂 Folder Structure
 
-#
 
-# ```text
 
-# .
+ ```text
 
-# ├── assets
+ .
 
-# │ ├── images
+ ├── assets
 
-# │ └── fonts
+ │ ├── images
 
-# ├── index.html
+│ └── fonts
 
-# ├── style.css
+ ├── index.html
 
-# ├── screenshot.png
+ ├── style.css
 
-# └── README.md
+ ├── screenshot.png
 
-#
+ └── README.md
+
+
 
 # 🚀 Future Improvements
 
@@ -135,7 +135,6 @@
 
 # \---
 
-#
 
 # 👨‍💻 Author
 
@@ -149,18 +148,11 @@
 
 # 🙏 Acknowledgements
 
-#
 
 # A big thanks to \*\*Frontend Mentor\*\* for creating high-quality front-end challenges that help developers improve their skills.
 
-#
-
 # <p align="center">
 
-#
-
 # ⭐ If you like this project, consider giving it a star!
-
-#
 
 # </p>
