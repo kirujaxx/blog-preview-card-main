@@ -104,7 +104,7 @@
 
 # 
 
-# \# 🛠️ Built With
+# 🛠️ Built With
 
 # 
 
@@ -124,7 +124,7 @@
 
 # 
 
-# \# 📚 What I Learned
+# 📚 What I Learned
 
 # 
 
@@ -184,9 +184,7 @@
 
 # \---
 
-# 
-
-# \# 📂 Folder Structure
+# &#x20;📂 Folder Structure
 
 # 
 
@@ -216,7 +214,7 @@
 
 # 
 
-# \# 🚀 Future Improvements
+# 🚀 Future Improvements
 
 # 
 
@@ -234,7 +232,7 @@
 
 # 
 
-# \# 👨‍💻 Author
+# 👨‍💻 Author
 
 # 
 
@@ -254,7 +252,7 @@
 
 # 
 
-# \# 🙏 Acknowledgements
+# 🙏 Acknowledgements
 
 # 
 
