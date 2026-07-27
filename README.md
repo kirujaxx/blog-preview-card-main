@@ -60,25 +60,13 @@
 
 # 
 
-# https://YOUR-GITHUB-PAGES-LINK
+# https://kirujaxx.github.io/blog-preview-card-main/
 
 # &#x20;💻 Repository
 
 # 
 
-# https://github.com/kirujaxx/QR\_FLEX
-
-# 
-
-# 🎯 Frontend Mentor Solution
-
-# 
-
-# https://www.frontendmentor.io/profile/YOUR\_USERNAME
-
-# 
-
-# \---
+# https://github.com/kirujaxx/blog-preview-card-main.git
 
 # 
 
