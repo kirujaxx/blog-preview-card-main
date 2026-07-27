@@ -3,14 +3,10 @@
 # <p align="center">Solution to the <strong>Frontend Mentor - Blog Preview Card</strong> challenge.</p>
 
 # <p align="center"><a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS">
-
-# &#x20;   <img src="https://img.shields.io/badge/Frontend%20Mentor-Challenge-3F54A3?style=for-the-badge\&logo=frontendmentor\&logoColor=white" alt="Frontend Mentor"> </a>
-
-# &#x20; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" alt="HTML">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\\\&logo=css3\\\&logoColor=white" alt="CSS">   <img src="https://img.shields.io/badge/Flexbox-Responsive-yellow?style=for-the-badge" alt="Flexbox"></p>
+ &#x20; <img src="https://img.shields.io/badge/Frontend%20Mentor-Challenge-3F54A3?style=for-the-badge\&logo=frontendmentor\&logoColor=white" alt="Frontend Mentor"> </a>
+# &#x20; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\\\&logo=css3\\\&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/Flexbox-Responsive-yellow?style=for-the-badge" alt="Flexbox"></p>
 
 # 📸 Preview
-
-# 
 
 # <p align="center">
 
@@ -18,7 +14,6 @@
 
 # </p>
 
-# 
 
 # 🔗 Links
 
@@ -32,29 +27,29 @@
 
 # ✨ Features
 
-# \- ✅ Semantic HTML5
+✅ Semantic HTML5
 
-# \- ✅ Responsive Design
+ ✅ Responsive Design
 
-# \- ✅ Flexbox Layout
+✅ Flexbox Layout
 
-# \- ✅ Hover Effects
+ ✅ Hover Effects
 
-# \- ✅ Mobile Friendly
+ ✅ Mobile Friendly
 
-# \- ✅ Clean CSS Structure
+✅ Clean CSS Structure
 
-# 🛠️ Built With
+ 🛠️ Built With
 
-# \- HTML5
+ HTML5
 
-# \- CSS3
+ CSS3
 
-# \- Flexbox
+ Flexbox
 
-# \- CSS `min()`
+ CSS `min()`
 
-# \- CSS Transitions
+ CSS Transitions
 
 # 📚 What I Learned
 
@@ -74,37 +69,37 @@
 
 # Example:
 
-# ```css
+# css
 
-# .card{
+.card{
 
-# &#x20;   width:min(90%,360px);
+&#x20; width:min(90%,360px);
 
-# }
+ }
 
-# 
 
-# .author{
 
-# &#x20;   display:flex;
+.author{
 
-# &#x20;   align-items:center;
+ display:flex;
 
-# &#x20;   gap:12px;
+ align-items:center;
 
-# }
+ gap:12px;
 
-# 
+ }
+
+
 
 # .title{
 
-# &#x20;   transition:color .2s ease;
+# &#x20; transition:color .2s ease;
 
 # }
 
 # 📂 Folder Structure
 
-# 
+#
 
 # ```text
 
@@ -112,9 +107,9 @@
 
 # ├── assets
 
-# │   ├── images
+# │ ├── images
 
-# │   └── fonts
+# │ └── fonts
 
 # ├── index.html
 
@@ -124,7 +119,7 @@
 
 # └── README.md
 
-# 
+#
 
 # 🚀 Future Improvements
 
@@ -136,11 +131,11 @@
 
 # \- Practice More Frontend Mentor Challenges
 
-# 
+#
 
 # \---
 
-# 
+#
 
 # 👨‍💻 Author
 
@@ -150,23 +145,22 @@
 
 # \- Frontend Mentor: https://www.frontendmentor.io
 
-# 
+#
 
 # 🙏 Acknowledgements
 
-# 
+#
 
 # A big thanks to \*\*Frontend Mentor\*\* for creating high-quality front-end challenges that help developers improve their skills.
 
-# 
+#
 
 # <p align="center">
 
-# 
+#
 
 # ⭐ If you like this project, consider giving it a star!
 
-# 
+#
 
 # </p>
-
