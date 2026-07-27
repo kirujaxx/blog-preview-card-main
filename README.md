@@ -1,14 +1,10 @@
 # <h1 align="center">📖 Blog Preview Card</h1>
 
-# 
-
 # <p align="center">
 
 # &#x20; Solution to the <strong>Frontend Mentor - Blog Preview Card</strong> challenge.
 
 # </p>
-
-# 
 
 # <p align="center">
 
@@ -18,25 +14,13 @@
 
 # &#x20; </a>
 
-# 
-
 # &#x20; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" alt="HTML">
 
-# 
-
 # &#x20; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white" alt="CSS">
-
-# 
 
 # &#x20; <img src="https://img.shields.io/badge/Flexbox-Responsive-yellow?style=for-the-badge" alt="Flexbox">
 
 # </p>
-
-# 
-
-# \---
-
-# 
 
 # 📸 Preview
 
@@ -50,29 +34,17 @@
 
 # 
 
-# 
-
 # 🔗 Links
 
-# 
-
 # 🌐 Live Demo
-
-# 
 
 # https://kirujaxx.github.io/blog-preview-card-main/
 
 # &#x20;💻 Repository
 
-# 
-
 # https://github.com/kirujaxx/blog-preview-card-main.git
 
-# 
-
 # ✨ Features
-
-# 
 
 # \- ✅ Semantic HTML5
 
@@ -86,15 +58,7 @@
 
 # \- ✅ Clean CSS Structure
 
-# 
-
-# \---
-
-# 
-
 # 🛠️ Built With
-
-# 
 
 # \- HTML5
 
@@ -106,19 +70,9 @@
 
 # \- CSS Transitions
 
-# 
-
-# \---
-
-# 
-
 # 📚 What I Learned
 
-# 
-
 # While building this project, I improved my understanding of:
-
-# 
 
 # \- Semantic HTML
 
@@ -132,11 +86,7 @@
 
 # \- Better class naming
 
-# 
-
 # Example:
-
-# 
 
 # ```css
 
@@ -166,13 +116,7 @@
 
 # }
 
-# ```
-
-# 
-
-# \---
-
-# &#x20;📂 Folder Structure
+# 📂 Folder Structure
 
 # 
 
@@ -194,17 +138,9 @@
 
 # └── README.md
 
-# ```
-
-# 
-
-# \---
-
 # 
 
 # 🚀 Future Improvements
-
-# 
 
 # \- Learn CSS Grid
 
@@ -222,10 +158,6 @@
 
 # 👨‍💻 Author
 
-# 
-
-# 
-
 # \- GitHub: https://github.com/kirujaxx
 
 # \- LinkedIn: https://www.linkedin.com/in/ayoub-nya
@@ -234,19 +166,11 @@
 
 # 
 
-# \---
-
-# 
-
 # 🙏 Acknowledgements
 
 # 
 
 # A big thanks to \*\*Frontend Mentor\*\* for creating high-quality front-end challenges that help developers improve their skills.
-
-# 
-
-# \---
 
 # 
 
